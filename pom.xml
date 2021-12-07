@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.netology</groupId>
-    <artifactId>НАЗВАНИЕ ВАШЕГО ПРОЕКТА</artifactId>
+    <artifactId>ru.netology</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
